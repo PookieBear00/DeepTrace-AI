@@ -21,7 +21,7 @@ export default function Home() {
             title="Text Analysis"
             description="Detect AI-generated text by analyzing linguistic patterns, perplexity, and burstiness."
             href="/text-analysis"
-            className="md:w-[1200px]" // Increased width for Text Analysis card
+            className="md:w-[1200px]" 
           />
           
           
